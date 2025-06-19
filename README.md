@@ -1,4 +1,4 @@
-**flippen**
+**Flippen**
 
 flippen is a Blender addon forked with cursor, for automatically fixing face normals on multiple objects. It provides a streamlined workflow for architectural and general 3D models, making normals consistent and flipping only those that are wrongly oriented.
 
@@ -67,3 +67,5 @@ Based on the flippist_blender addon.
 
 **Contributing**
 Pull requests and suggestions are welcome! Please open an issue or submit a PR.
+
+**Note**: ALthough this addon doesnt work 100%, it does a decent job.
